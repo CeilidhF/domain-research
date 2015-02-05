@@ -1,6 +1,6 @@
 # domain-research
 Research for Web Advanced: Javascript (at Parsons)
-add http://cake23.de/turing-fluid.html
+http://cake23.de/turing-fluid.html
 - cake 23: simulation of moving and mixed fluids
 - reacts to user's cursor, but also moves on its own
 add http://mrdoob.com/
