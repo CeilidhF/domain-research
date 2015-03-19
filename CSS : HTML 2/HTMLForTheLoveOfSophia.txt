@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+
+	<head>
+
+	
+	<link href="PhiloBits.css" rel="stylesheet"/>
+	
+	</head>
+
+	<body>
+	
+	<div class="bodycopy">
+	
+			<a href="http://a.parsons.edu/~yangi066/composition_revised.html"> <div class="color1"> intentionality <div class="extra"> by tim crane </div></div> </a>
+			<a href="http://a.parsons.edu/~frasc243/Assignment2.html"> <div class="color2"> without time we should never have any awareness of the moment <div class="extra"> friedrich schiller </div></div> </a>
+			<a href="http://a.parsons.edu/~frasc243/Assignment2.html"><div class="color5"> everything I see is spurious <div class="extra"> rene sescartes </div></div> </a>
+			<a href="http://a.parsons.edu/~frasc243/Assignment2.html"><div class="color8"> constant Mistrust <div class="extra"> goethe </div></div> </a>
+			<a href="http://a.parsons.edu/~frasc243/Assignment2.html"><div class="color11"> grounded only upon experience <div class="extra"> thomas hobbes </div></div> </a>
+			<a href="http://a.parsons.edu/~frasc243/Assignment2.html"><div class="color12"> great delight and taste in imitation <div class="extra"> gabriele paleotti </div></div> </a>
+			<a href="http://a.parsons.edu/~frasc243/Assignment2.html"><div class="color13"> never are things really what they seem <div class="extra"> plato </div></div> </a>
+			<a href="http://a.parsons.edu/~frasc243/Assignment2.html"><div class="color14"> where does meaningfulness originate? <div class="extra"> john haugeland </div></div> </a>
+			<a href="http://a.parsons.edu/~frasc243/Assignment2.html"><div class="color15"> they act only by instinct and without thinking <div class="extra"> rene descartes </div></div> </a>
+			<a href="http://a.parsons.edu/~frasc243/Assignment2.html"><div class="color16"> he eats and He is hungry <div class="extra"> b.f. skinner </div></div> </a>
+	
+			<a href="http://a.parsons.edu/~yangi066/composition_revised.html"> <div class="color1"> true thoughts in him <div class="extra"> plato </div></div> </a>
+			<a href="http://a.parsons.edu/~frasc243/Assignment2.html"> <div class="color2"> a priori, must be entirely arbitrary <div class="extra"> david hume </div></div> </a>
+			<a href="http://a.parsons.edu/~frasc243/Assignment2.html"><div class="color5"> decaying sense <div class="extra"> thomas hobbes </div></div> </a>
+			<a href="http://a.parsons.edu/~frasc243/Assignment2.html"><div class="color8"> engulfed in the infinite immensity <div class="extra"> blaise pascal </div></div> </a>
+			<a href="http://a.parsons.edu/~frasc243/Assignment2.html"><div class="color11"> nothing is anything or any kind of thing <div class="extra"> plato </div></div> </a>
+			<a href="http://a.parsons.edu/~frasc243/Assignment2.html"><div class="color12"> great delight and taste in imitation <div class="extra"> gabriele paleotti </div></div> </a>
+			<a href="http://a.parsons.edu/~frasc243/Assignment2.html"><div class="color13"> never are things really what they seem <div class="extra"> plato </div></div> </a>
+			<a href="http://a.parsons.edu/~frasc243/Assignment2.html"><div class="color14"> where does meaningfulness originate? <div class="extra"> john haugeland </div></div> </a>
+			<a href="http://a.parsons.edu/~frasc243/Assignment2.html"><div class="color15"> they act only by instinct and without thinking <div class="extra"> rene descartes </div></div> </a>
+			<a href="http://a.parsons.edu/~frasc243/Assignment2.html"><div class="color16"> he eats and He is hungry <div class="extra"> b.f. skinner </div></div> </a>	
+	
+			<a href="http://a.parsons.edu/~yangi066/composition_revised.html"> <div class="color1"> intentionality <div class="extra"> by tim crane </div></div> </a>
+			<a href="http://a.parsons.edu/~frasc243/Assignment2.html"> <div class="color2"> without time we should never have any awareness of the moment <div class="extra"> friedrich schiller </div></div> </a>
+			<a href="http://a.parsons.edu/~frasc243/Assignment2.html"><div class="color5"> everything I see is spurious <div class="extra"> rene sescartes </div></div> </a>
+			<a href="http://a.parsons.edu/~frasc243/Assignment2.html"><div class="color8"> constant Mistrust <div class="extra"> goethe </div></div> </a>
+			<a href="http://a.parsons.edu/~frasc243/Assignment2.html"><div class="color11"> grounded only upon experience <div class="extra"> thomas hobbes </div></div> </a>
+			<a href="http://a.parsons.edu/~frasc243/Assignment2.html"><div class="color12"> great delight and taste in imitation <div class="extra"> gabriele paleotti </div></div> </a>
+			<a href="http://a.parsons.edu/~frasc243/Assignment2.html"><div class="color13"> never are things really what they seem <div class="extra"> plato </div></div> </a>
+			<a href="http://a.parsons.edu/~frasc243/Assignment2.html"><div class="color14"> where does meaningfulness originate? <div class="extra"> john haugeland </div></div> </a>
+			<a href="http://a.parsons.edu/~frasc243/Assignment2.html"><div class="color15"> they act only by instinct and without thinking <div class="extra"> rene descartes </div></div> </a>
+			<a href="http://a.parsons.edu/~frasc243/Assignment2.html"><div class="color16"> he eats and He is hungry <div class="extra"> b.f. skinner </div></div> </a>
+	
+	
+	</div>
+	</body>
+</html>

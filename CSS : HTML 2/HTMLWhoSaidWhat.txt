@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+
+	<head>
+
+	
+	<link href="WhoSaidWhat.css" rel="stylesheet"/>
+	
+	</head>
+
+	<body>
+	
+	<div class="bodycopy">
+	
+			<div class="color1"> tim crane   /   intentionality   /   the philosophy of mind and metaphysics</div> 
+			
+			<div class="color16"> friedrich schiller   /   without time we should never have any awareness of the moment   /   aesthetics</div>
+			<br/>
+			<div class="color5"> rene descartes   /   everything I see is spurious   /   metaphysics, epistemology and mathematics</div>
+			<br/>
+			<div class="color8"> goethe   /   constant mistrust   /   weimar classicism</div>
+			<br/>
+			<div class="color11"> thomas hobbes   /   grounded only upon experience   /   political philosophy</div>
+			<br/>
+			<div class="color12"> gabriele paleotti   /   great delight and taste in imitation   /   aesthetics</div>
+			<br/>
+			<div class="color13"> plato   /   never are things really what they seem   /   epistemology</div>
+			<br/>
+			<div class="color14"> john haugeland   /   where does meaningfulness originate?   /   philosophy of mind</div>
+			<br/>
+			<div class="color15"> rene descartes   /   they act only by instinct and without thinking   /   metaphysics, epistemology and mathematics</div>
+			<br/>
+			<div class="color16"> b.f. skinner   /   he eats and He is hungry   /   philosophy of mind</div>
+			<br/>
+	
+			<div class="color1"> plato   /   true thoughts in him   /   epistemology</div>
+			
+			<div class="color2"> david hume   /   a priori, must be entirely arbitrary   /   epistemology and mathematics</div>
+			<br/>
+			<div class="color5"> thomas hobbes   /   decaying sense   /   political philosophy</div>
+			<br/>
+			<div class="color8"> blaise pascal   /   engulfed in the infinite immensity   /   philosophy of mathematics</div>
+			<br/>
+			<div class="color11"> plato   /   nothing is anything or any kind of thing   /   epistemology</div>
+			<br/>
+			<div class="color12"> aristotle   /   we do not think any of the senses is wisdom   /   epistemology and metaphysics</div>
+			<br/>
+			<div class="color13"> epicurus   /   when we do not feel pain, we no longer need pleasure   /   atomism and materialism</div>
+			<br/>
+			<div class="color14"> diogenes laertius   /   nature leads us to virtue   /   epicurianism and skepticism</div>
+			<br/>
+			<div class="color15"> they act only by instinct and without thinking <div class="extra"> rene descartes </div></div>
+			<br/>
+			<div class="color16"> he eats and He is hungry <div class="extra"> b.f. skinner </div></div>	
+			<br/>
+	
+			<div class="color1"> intentionality <div class="extra"> tim crane </div></div>
+			<br/>
+			<div class="color2"> without time we should never have any awareness of the moment <div class="extra"> friedrich schiller </div></div>
+			<br/>
+			<div class="color5"> everything I see is spurious <div class="extra"> rene sescartes </div></div>
+			<br/>
+			<div class="color8"> constant Mistrust <div class="extra"> goethe </div></div>
+			<br/>
+			<div class="color11"> grounded only upon experience <div class="extra"> thomas hobbes </div></div>
+			<br/>
+			<div class="color12"> great delight and taste in imitation <div class="extra"> gabriele paleotti </div></div>
+			<br/>
+			<div class="color13"> never are things really what they seem <div class="extra"> plato </div></div>
+			<br/>
+			<div class="color14"> where does meaningfulness originate? <div class="extra"> john haugeland </div></div>
+			<br/>
+			<div class="color15"> they act only by instinct and without thinking <div class="extra"> rene descartes </div></div>
+			<br/>
+			<div class="color16"> he eats and He is hungry <div class="extra"> b.f. skinner </div></div>
+	
+	
+	</div>
+	</body>
+</html>
